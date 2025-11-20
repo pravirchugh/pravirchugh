@@ -13,5 +13,5 @@ I build AI systems, search infrastructure, and developer tooling. Most of my wor
 
 For the past 1.5 years, I’ve been an AI/ML intern at SAP Ariba working on semantic search, internal AI tooling, and scalable pipelines used across engineering teams.
 
-Website: **pravirchugh.github.io**  
-LinkedIn: **linkedin.com/in/pravirchugh**
+Website: **[pravirchugh.github.io](https://pravirchugh.github.io)**  
+LinkedIn: **[linkedin.com/in/pravirchugh](https://linkedin.com/in/pravirchugh)**
