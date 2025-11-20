@@ -2,12 +2,12 @@
 
 I build AI systems, search infrastructure, and developer tooling. Most of my work sits somewhere between software engineering and applied machine learning.
 
-### What I’m working on
+### What I’m working on:
 - recommendation systems for procurement applications
 - improving LLM workflows and orchestration  
 - backend engineering around pipelines, data flow, and system reliability  
 
-### What I’m learning next
+### What I’m learning next:
 - CUDA programming
 - AI agents and multi-step reasoning systems 
 
